@@ -23,4 +23,4 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
         assertEquals("com.example.ai_mad_numgame", appContext.getPackageName());
     }
-}
+}//code made
